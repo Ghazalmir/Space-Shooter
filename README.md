@@ -5,7 +5,7 @@ Simple 2D space invaders made with C# and Unity for practice in the Summer of 20
 - 🚀 [Overview](https://github.com/Ghazalmir/space-shooter#-overview)
 - 📽 [Demo](https://github.com/Ghazalmir/space-shooter#-demo)
 - ⚙️ [Features](https://github.com/Ghazalmir/space-shooter#%EF%B8%8F-features)
-- 🕹 [Making Levels](https://github.com/Ghazalmir/space-shooter#--making-levels)
+- 🕹 [Making Levels](https://github.com/Ghazalmir/space-shooter#-making-levels)
 - 💡 [Ideas for Extra Features](https://github.com/Ghazalmir/space-shooter#-ideas-for-extra-features)
 - 🔒 [License](https://github.com/Ghazalmir/space-shooter#-license)
 
