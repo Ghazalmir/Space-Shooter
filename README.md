@@ -1,5 +1,5 @@
 # Space Shooter
-Simple 2D space invaders made with C# and Unity for practice in the Summer of 2021. Fully playable, with all the needed assets for making levels. 
+Repository containing the C# scripts for a simple 2D space invaders made with C# and Unity for practice in the Summer of 2021. Fully playable, with all the needed assets for making levels. 
 
 ## Table of contents
 - 🚀 [Overview](https://github.com/Ghazalmir/space-shooter#-overview)
