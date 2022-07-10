@@ -6,6 +6,7 @@ Repository containing the C# scripts for a simple 2D space invaders made with C#
 - 📽 [Demo](https://github.com/Ghazalmir/space-shooter#-demo)
 - ⚙️ [Features](https://github.com/Ghazalmir/space-shooter#%EF%B8%8F-features)
 - 🕹 [Making Levels](https://github.com/Ghazalmir/space-shooter#-making-levels)
+- 📝 [Project Takeaways](https://github.com/Ghazalmir/space-shooter#-project-takeaways)
 - 💡 [Ideas for Extra Features](https://github.com/Ghazalmir/space-shooter#-ideas-for-extra-features)
 - 🔒 [License](https://github.com/Ghazalmir/space-shooter#-license)
 
@@ -26,6 +27,13 @@ Video under construction 🛠
 
 ## 🕹 Making Levels
 Tutorial under construction 🛠
+
+## 📝 Project Takeaways
+- More practice with C# and Unity. 
+- Working with unity particle system.
+- Using texture sheet animation.
+- Using coroutines.
+- Using Unity's waypoint pathing system.
 
 ## 💡 Ideas for Extra Features
 - Adding health bars to each enemy.
